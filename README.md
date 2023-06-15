@@ -4,6 +4,8 @@
 **This branch is an updated version of Tim's original tutorial, with a more recent toolkit release.**
 **Only updated-simulate-complex.py has been updated; other Python scripts are from the original repository.**
 
+@Ialibay also contributed to updating this script.
+
 Create an environment:
 
 ```
